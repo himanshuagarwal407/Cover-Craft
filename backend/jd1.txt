@@ -1,0 +1,31 @@
+Job Role:- Software Engineer/Senior Software Engineer
+Job Location:- Gurgaon/Chennai/Bangalore/Pune/Bhopal/Jaipur/Hyderabad
+Experience:- 5-12 Years
+
+Roles & Responsibilities
+- Design, develop, and maintain high-quality, production-grade software.
+- Deliver end-to-end features from concept, development, testing to deployment and support.
+- Specialize in frontend or backend development while contributing toward full-stack capabilities.
+- Write clean, secure, testable, and maintainable code following best practices.
+- Apply clean architecture, design patterns, and coding standards.
+- Implement unit, integration, and automated testing.
+- Contribute to CI/CD pipelines and DevOps practices.
+- Participate in code reviews, pair programming, and knowledge sharing.
+- Collaborate with cross-functional teams in Agile environments.
+- Continuously learn and adopt emerging technologies and industry best practices.
+
+Required Skills
+- Strong experience in Frontend or Backend development (with willingness to work across the stack).
+- Backend: Java (7+), Spring Boot, REST APIs, WebSockets.
+- Frontend: JavaScript/TypeScript, React or Vue, HTML/CSS.
+- Understanding of software design principles and clean architecture.
+- Experience with unit testing, integration testing, BDD/TDD.
+- Exposure to Cloud platforms (AWS preferred).
+- Familiarity with CI/CD pipelines, Git, and DevOps practices.
+- Strong communication and teamwork skills.
+
+Requirements
+- Bachelor's degree in Computer Science or equivalent experience.
+- Experience working in Agile (Scrum/Kanban) environments.
+- Ability to deliver secure, scalable, and high-quality production software.
+- Commitment to continuous improvement and team collaboration.
